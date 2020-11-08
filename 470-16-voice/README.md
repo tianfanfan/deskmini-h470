@@ -1,0 +1,36 @@
+# ASRock Deskmini H470
+
+Opencore EFI &amp; macOS 系统，服务于 ASRock Deskmini H470
+
+## 使用方法
+参考 [先参考](https://github.com/LewiVir/ASRock-Deskmini-H470)，然后下载 EFI 替换。
+
+## 安装后
+
+**Very Important!**
+
+- **Update Serial Number to Enable iCloud Services and App Store**
+生成自己的 3 码
+Instructions: https://shuiyunxc.gitee.io/2020/03/16/Three/index/
+
+## 硬件陪着
+
+- OS: macOS 10.15.7 Catalina / 11.0 Big Sur
+- OpenCore: 0.6.3
+- CPU: Intel® Core™ i7-10700
+- RAM: DDR4 SODIMM 2933MHz 16GB x 2
+- SSD: ?
+- Wi-Fi Card: BCM94360CS2
+
+## BIOS
+
+- Disable **Secure Boot**
+
+## 无法工作的
+
+- Awake from sleep using mouse / keyboard 休眠状态无法用键盘，鼠标唤醒?
+
+## 感谢
+
+[csrutil](https://github.com/csrutil)
+[LewiVir](https://github.com/LewiVir/ASRock-Deskmini-H470)
