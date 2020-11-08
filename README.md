@@ -25,7 +25,7 @@ Opencore EFI &amp; macOS 系统，服务于 ASRock Deskmini H470
 
 - Disable **Secure Boot**
 
-## 无法工作的
+## 无法工作
 
 - 休眠状态无法用键盘，鼠标唤醒 ???
 
