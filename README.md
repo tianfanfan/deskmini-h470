@@ -3,7 +3,6 @@
 Opencore EFI &amp; macOS 系统，服务于 ASRock Deskmini H470
 
 ## 使用方法
-- 参考 [文档](https://github.com/LewiVir/ASRock-Deskmini-H470)，安装成功，并可以开机。
 - 下载本页的 EFI 替换 EFI 分区的 EFI 目录
 
 ## 安装后
