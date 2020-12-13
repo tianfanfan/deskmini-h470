@@ -30,6 +30,11 @@ Opencore EFI &amp; macOS 系统，服务于 ASRock Deskmini H470
 - 休眠状态用键盘，鼠标唤醒 【√】
 - 耳机开机后插入是否有声音 【√】
 
+
+## 其他
+ProcessorType
+i7 1541 1793
+i9 4105
 ## 感谢
 
 [csrutil](https://github.com/csrutil)
