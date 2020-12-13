@@ -33,7 +33,9 @@ Opencore EFI &amp; macOS 系统，服务于 ASRock Deskmini H470
 
 ## 其他
 ProcessorType
+
 i7 1541 1793
+
 i9 4105
 ## 感谢
 
