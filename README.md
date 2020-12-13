@@ -10,6 +10,7 @@ Opencore EFI &amp; macOS 系统，服务于 ASRock Deskmini H470
 
 - **非常重要!**
 **生成自己的 3 码** 介绍: https://shuiyunxc.gitee.io/2020/03/16/Three/index/
+**使用occ** 在设备一行，生成自己的三码。（生成前更新 OCC）
 
 ## 硬件
 
@@ -17,16 +18,17 @@ Opencore EFI &amp; macOS 系统，服务于 ASRock Deskmini H470
 - OpenCore: 0.6.3
 - CPU: Intel® Core™ i7-10700
 - RAM: DDR4 SODIMM 2933MHz 16GB x 2
-- SSD: ? anyway
+- SSD: ? any
 - Wi-Fi Card: BCM94360CS2
 
 ## BIOS
 
 - Disable **Secure Boot**
 
-## 无法工作
+## 功能记录
 
-- 休眠状态无法用键盘，鼠标唤醒 ???
+- 休眠状态用键盘，鼠标唤醒 【√】
+- 耳机开机后插入是否有声音 【√】
 
 ## 感谢
 
