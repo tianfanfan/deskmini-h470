@@ -9,8 +9,8 @@ Opencore EFI &amp; macOS 系统，服务于 ASRock Deskmini H470
 
 
 - **非常重要!**
-**生成自己的 3 码** 介绍: https://shuiyunxc.gitee.io/2020/03/16/Three/index/
-**使用occ** 在设备一行，生成自己的三码。（生成前更新 OCC）
+- **生成自己的 3 码** 介绍: https://shuiyunxc.gitee.io/2020/03/16/Three/index/
+- **使用occ** 在设备一行，生成自己的三码。（生成前更新 OCC）
 
 ## 硬件
 
@@ -34,9 +34,8 @@ Opencore EFI &amp; macOS 系统，服务于 ASRock Deskmini H470
 ## 其他
 ProcessorType
 
-i7 1541 1793
-
-i9 4105
+- i7 1541 1793
+- i9 4105
 ## 感谢
 
 [csrutil](https://github.com/csrutil)
