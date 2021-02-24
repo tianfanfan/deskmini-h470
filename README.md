@@ -18,7 +18,7 @@ Opencore EFI &amp; macOS 系统，服务于 ASRock Deskmini H470
 - OpenCore: 0.6.3
 - CPU: Intel® Core™ i7-10700
 - RAM: DDR4 SODIMM 2933MHz 16GB x 2
-- SSD: ? any
+- SSD: ? anyway except pm981
 - Wi-Fi Card: BCM94360CS2
 
 ## BIOS
